@@ -12,8 +12,7 @@ For those interested in previous editions and their resources, you can find more
 
 Join us as we build on the knowledge from previous sessions and explore the latest developments in AI.
 
-![Figure1](./Figure1.png)  
-![Figure2](./Figure2.png)
+![AISS](./AISS.png)  
 
 ## Program Highlights
 

@@ -46,7 +46,7 @@ After the initial two weeks, participants had a four-week self-study period, whe
 ### Final Presentation (August 27th - 28th)
 
 The program ended with a two-day presentation seminar on August 27th and 28th, where each participant or team showcased their project outcomes. This seminar allowed for the exchange of ideas, feedback, and recognition of the hard work and achievements of all involved.  
-[Presentation Materials](https://github.com/powersimmani/RC4_IRTP_Seminar)
+[Presentation Materials](https://github.com/powersimmani/RC4_IRTP_Seminar_2024_Summer)
 
 ## Target Audience
 

@@ -28,7 +28,7 @@ During the first two weeks, from July 7th to July 19th (Monday to Friday), the f
 | Tue  | July 8th   | Computer Network & Computer Structure            | Environment Setting & Reminding Python    | Ganghyun Kim    |
 | Wed  | July 9th   | Data mining & Machine learning                   | Machine Learning Practical                | Chae eun Rhee / Gaeun Oh  |
 | Thu  | July 10th  | Evaluation, Loss, Optimizers                     | Artificial Neural Network                 | Dongin Moon / Taekeun Kim  |
-| Fri  | July 11th  | Introduction to PyTorch                          | Extended Morning Session (1 hour more)    | Jongbum Won / Dongin Moon |
+| Fri  | July 11th  | Introduction to PyTorch                          | Extended Morning Session                  | Jongbum Won / Dongin Moon |
 |||||||
 | Mon  | July 14th  | Convolutional Neural Network                     | CNN Practical                             | Yujin Kim       |
 | Tue  | July 15th  | CNN Practical+                                   | Topic Selection                           | Dongin Moon     |

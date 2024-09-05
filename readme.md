@@ -6,9 +6,9 @@ We are excited to announce the AI Summer School 2024, following the success of o
 
 For those interested in previous editions and their resources, you can find more information below:
 
--   [AI Summer School 2023](https://github.com/powersimmani/AISS2023)
 -   [AI Winter School 2023](https://github.com/powersimmani/AIWS2023)
--   [AI Summer School 2024](https://github.com/powersimmani/AIWS2024)
+-   [AI Summer School 2023](https://github.com/powersimmani/AISS2023)
+-   [AI Winter School 2024](https://github.com/powersimmani/AIWS2024)
 
 Join us as we build on the knowledge from previous sessions and explore the latest developments in AI.
 
